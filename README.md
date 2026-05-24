@@ -42,7 +42,7 @@ UniLink/
 
 ---
 
-## 🇹🇷
+## [TR]
 ### 🌟 Temel Özellikler
 *   **Öğrenci Profili & Arkadaşlık Sistemi:** Öğrencilerin birbirleriyle bağlantı kurmasını ve arkadaşlık ilişkilerini (gönderen, alan, onay durumu) grafik tabanlı yönetir.
 *   **Kişiselleştirilmiş Akış (Post Feed):** Takip edilen veya arkadaş olunan kişilerin paylaşımlarının anlık görüntülenmesi ve beğenilmesi.
@@ -102,7 +102,7 @@ UniLink/
 
 ---
 
-## 🇺🇸
+## [ENG]
 
 ### 🌟 Key Features
 *   **Student Profile & Friendship System:** Manage friendship relations (sender, receiver, status) using Neo4j's graph structures.
